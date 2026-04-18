@@ -1,0 +1,15 @@
+name: llm
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - jupyterlab
+  - numpy
+  - matplotlib
+  - pandas
+  - tqdm
+  - pip:
+      # PyTorch 的 CUDA 版本需要根据本机显卡驱动单独装,不放在这里。
+      # 装完此 env 后,按 README "GPU 版 PyTorch 安装" 的说明执行。
+      - tiktoken
