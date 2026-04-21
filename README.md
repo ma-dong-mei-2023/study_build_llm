@@ -6,13 +6,13 @@
 
 | 章节 | 主题 | Notebook | 状态 |
 |------|------|----------|------|
-| 0 | 环境 + PyTorch 热身 | [notebooks/ch00_pytorch_warmup.ipynb](notebooks/ch00_pytorch_warmup.ipynb) | ⏳ 进行中 |
-| 1 | Tokenization | `ch01_tokenizer.ipynb` | ⬜ |
-| 2 | DataLoader + 嵌入 | `ch02_dataloader.ipynb` | ⬜ |
-| 3 | 注意力机制 | `ch03_attention.ipynb` | ⬜ |
-| 4 | GPT 模型架构 | `ch04_gpt_model.ipynb` | ⬜ |
-| 5 | 预训练 | `ch05_pretrain.ipynb` | ⬜ |
-| 6 | (可选)加载 GPT-2 权重 | `ch06_load_gpt2.ipynb` | ⬜ |
+| 0 | 环境 + PyTorch 热身 | [notebooks/ch00_pytorch_warmup.ipynb](notebooks/ch00_pytorch_warmup.ipynb) | ✅ |
+| 1 | Tokenization | [notebooks/ch01_tokenizer.ipynb](notebooks/ch01_tokenizer.ipynb) | ✅ |
+| 2 | DataLoader + 嵌入 | [notebooks/ch02_dataloader.ipynb](notebooks/ch02_dataloader.ipynb) | ⬜ |
+| 3 | 注意力机制 | [notebooks/ch03_attention.ipynb](notebooks/ch03_attention.ipynb) | ⬜ |
+| 4 | GPT 模型架构 | [notebooks/ch04_gpt_model.ipynb](notebooks/ch04_gpt_model.ipynb) | ⬜ |
+| 5 | 预训练 | [notebooks/ch05_pretrain.ipynb](notebooks/ch05_pretrain.ipynb) | ⬜ |
+| 6 | (可选)加载 GPT-2 权重 | [notebooks/ch06_load_gpt2.ipynb](notebooks/ch06_load_gpt2.ipynb) | ⬜ |
 
 ## 目录结构
 
